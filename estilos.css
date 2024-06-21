@@ -49,11 +49,11 @@ h2{
     en este caso nos vaja el boton*/
 }
 
-a{
+ a{
     font-size: 14px; /*Se define el tamaño de fuente*/
     background: #5cb8ff; /*Se define color de fondo del boton*/
-    padding: 20px 10px 20px 10px; /*Se define tamaño interno del boton*/
-    color: white; /*Se define color de fuente*/
+    padding: 10px 10px 10px 10px; /*Se define tamaño interno del boton*/
+    color: rgb(13, 13, 13); /*Se define color de fuente*/
 }
 
 header{
@@ -325,7 +325,7 @@ h3{
     flex-direction: column;
 }
 
-.porque-singular{
+.porque-singFar{
     width: 95%;
 }
 
