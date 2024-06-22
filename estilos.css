@@ -56,6 +56,11 @@ h2{
     color: rgb(13, 13, 13); /*Se define color de fuente*/
 }
 
+.lista a {
+    background: #5af270; /*Se define color de fondo del boton*/
+    padding: 10px 10px 10px 10px; /*Se define tamaño interno del boton*/
+}
+
 header{
     background: url(recursos/fondo12.jpg);
     height: 100vh;
@@ -166,7 +171,7 @@ span{
 } 
 
 .porque-singular{
-    width: 28%;  /*Se detemina el ancho de los elemento que van  por fila, y nos permite saber cauntos elementos se vusualizaen en la fila*/
+    width: 95%;  /*Se detemina el ancho de los elemento que van  por fila, y nos permite saber cauntos elementos se vusualizaen en la fila*/
 }
 
 /* ARRANCA SECCION BLOG */
