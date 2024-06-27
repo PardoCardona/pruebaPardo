@@ -57,7 +57,7 @@ h2{
 }
 
 .lista a {
-    background: #5af270; /*Se define color de fondo del boton*/
+    background: hsl(210, 85%, 65%); /*Se define color de fondo del boton*/
     padding: 10px 10px 10px 10px; /*Se define tamaño interno del boton*/
 }
 
